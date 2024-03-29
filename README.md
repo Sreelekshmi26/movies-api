@@ -13,7 +13,7 @@ Make sure you have the following installed on your machine:
 - Docker Compose
   
 Getting Started
-git clone https://github.com/allen246/food-delivery-system.git
+git clone https://github.com/Sreelekshmi266/movies-api.git
 cd food-delivery-system
 docker-compose build
 Usage
