@@ -1,7 +1,7 @@
 # movies-api
 This project is a Django web application running inside a Docker container.
 
-Table of Contents
+# Table of Contents
 - Requirements
 - Getting Started
 - Usage
@@ -25,9 +25,9 @@ To stop the containers: docker-compose down
 docker-compose logs -f
 
 
-Developer information
-Name - Sreelekshmi J
+# Developer information
+- Name - Sreelekshmi J
 
-Email - sreelu266@gmail.com
+- Email - sreelu266@gmail.com
 
-Linkedin - https://www.linkedin.com/in/allen-jose07/
+- Linkedin - https://www.linkedin.com/in/allen-jose07/
