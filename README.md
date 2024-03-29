@@ -13,12 +13,13 @@ Make sure you have the following installed on your machine:
 - Docker Compose
   
 ## Getting Started
-git clone https://github.com/Sreelekshmi266/movies-api.git
-cd food-delivery-system
-docker-compose build
+  1. git clone https://github.com/Sreelekshmi266/movies-api.git
+  2. cd food-delivery-system
+  3. docker-compose build
+
 ## Usage
-docker-compose up
-Visit http://localhost/doc/ in your web browser to access the DRF swagger file.
+- docker-compose up
+- Visit http://localhost/doc/ in your web browser to access the DRF swagger file.
 To stop the containers: docker-compose down
 # Log Command
 docker-compose logs -f
